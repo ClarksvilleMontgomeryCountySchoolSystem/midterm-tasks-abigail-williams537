@@ -13,4 +13,4 @@ allowance -= 8
 allowance /= 2
 
 # Print final allowance
-print(f"Final Allowance: ${allowance}")
+print(f"Allowance: $ {allowance}")
